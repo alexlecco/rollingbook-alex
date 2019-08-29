@@ -7,7 +7,11 @@
   text-align: center;
 }
 
+<<<<<<< Updated upstream
 @media (min-width: 576px) {
+=======
+@media (min-width: 992px) {
+>>>>>>> Stashed changes
   .collapse.dont-collapse-sm {
     display: block;
     height: auto !important;
